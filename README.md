@@ -7,7 +7,7 @@
 Claude Code에 아래 문장을 입력하면 모든 pm- 스킬이 자동으로 설치됩니다:
 
 ```
-이 링크에서 pm-스킬 전부 설치해줘: https://github.com/sese-pm/pm-skills
+이 링크에서 pm-스킬 전부 설치해줘: https://github.com/mshsese/pm-skills
 ```
 
 ## 📋 스킬 목록
